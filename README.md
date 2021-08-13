@@ -11,7 +11,10 @@
 <div> 
  <a href="https://instagram.com/felipesoarws" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/akafelp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <img align="right" height="150" width="150" alt="dwight" src="https://i.gifer.com/origin/fc/fc058c9918d9da1ddf986d01ec3ef3d6_w200.gif">
+
 </div>
+
 
   ##
  
