@@ -1,6 +1,6 @@
 # Hey guys, i'm Felipe! :rocket:
 
-🌱 **Learning:** HTML, CSS and JavaScript!
+🌱 **Learning:** Bootstrap and JavaScript!
 
 🎒 **Main Tools:** Visual Studio Code and GitHub!
 
