@@ -9,7 +9,7 @@
 <div> 
  <a href="https://instagram.com/felipesoarws" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  <a href="https://instagram.com/felipesoarws" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipesoarws/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
   <img align="right" height="120" width="120" alt="dwight" src="https://i.gifer.com/origin/fc/fc058c9918d9da1ddf986d01ec3ef3d6_w200.gif">
