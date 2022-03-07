@@ -1,6 +1,6 @@
 # Hey guys, i'm Felipe! :rocket:
 
-🌱 **Learning:** JavaScript, Git and Terminal Commands!
+🌱 **Learning:** JavaScript!
 
 🎒 **Main Tools:** Visual Studio Code and GitHub!
 
