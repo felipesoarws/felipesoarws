@@ -1,6 +1,6 @@
 # Hey guys, i'm Felipe! :rocket:
 
-🌱 **Learning:** React!
+🌱 **Learning:** React & Node!
 
 🎒 **Main Tools:** Visual Studio Code and GitHub!
 
