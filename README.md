@@ -6,7 +6,7 @@
 - 🗣️ I'm 22 years old.
 - 🧑‍🏫 Studying Software Engineer at Cruzeiro do Sul.
 - 🎓 Graduated in Analysis, Development and Integration of Systems (ADS) at UNIP.
-- 📫 Currently in the 1st semester of college (1/8)
+- 📫 Currently in the 2st semester of college (2/8)
 
 #
 
